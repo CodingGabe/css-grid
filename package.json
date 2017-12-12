@@ -1,0 +1,23 @@
+{
+  "name": "css-grid",
+  "version": "1.0.0",
+  "description": "css grid learning by ya boy",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "grid"
+  ],
+  "author": "gabe amaya",
+  "license": "ISC"
+}
